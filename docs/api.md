@@ -1,4 +1,6 @@
 # Triggers
+| |
+| ---|
 | exps_has_elections                |
 | exps_is_gov_type_dictatorship     |
 | exps_is_gov_type_democratic       |
