@@ -1,4 +1,5 @@
-# Triggers
+# Scripted
+## Triggers
 |                                      |
 | ---                                  |
 | exps_has_elections                   |
@@ -12,7 +13,7 @@
 | exps_has_coalition_government        |
 
 
-# Effects
+## Effects
 |                                      |
 | ---                                  |
 | exps_set_elections_allwed            |
@@ -24,3 +25,10 @@
 | exps_remove_election_year            |
 | exps_set_ruling_party_[partyname]    |
 | exps_set_coalition_party_[partyname] |
+
+# Variable
+
+|    |
+|--- |
+| exps_party_organisation_[partyname]  |
+| exps_party_popularity_[partyname]    |
